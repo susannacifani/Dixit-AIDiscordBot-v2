@@ -18,8 +18,8 @@ def guess_card(hint, cards):
     
     with torch.no_grad():
         outputs = model(**inputs)
-        logits_per_image = outputs.logits_per_image  # logit delle immagini
-        logits_per_text = outputs.logits_per_text    # logit del testo
+        logits_per_image = outputs.logits_per_image  # logit imgs
+        logits_per_text = outputs.logits_per_text    # logit text
     probs = logits_per_image.softmax(dim=0)  # Probabilità normalizzate
     print(probs)
     chosen_index = torch.argmax(logits_per_image).item()  # Trova l'indice dell'immagine più somigliante
