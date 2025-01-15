@@ -25,6 +25,12 @@ When you type **`/start`**:
 ![start](https://github.com/user-attachments/assets/e1eeda61-59f6-4855-9022-aabef301aaee)
 
 
+Everyone receives its own deck of cards in private DM:
+
+![image](https://github.com/user-attachments/assets/8573e924-3998-4efb-bfff-ec3ac7e6db56)
+
+
+
 When the storyteller uses **`/describe_and_choose`** to provide its hint:
 
 ![image](https://github.com/user-attachments/assets/80136ec3-5c9d-448b-ac69-bd9ea9b677c7)
