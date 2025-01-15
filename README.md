@@ -31,9 +31,10 @@ Everyone receives its own deck of cards in private DM:
 
 
 
-When the storyteller uses **`/describe_and_choose`** to provide its hint:
+When the storyteller uses **`/choose`** to provide its hint:
 
-![image](https://github.com/user-attachments/assets/80136ec3-5c9d-448b-ac69-bd9ea9b677c7)
+![image](https://github.com/user-attachments/assets/786bb1a4-064f-46d3-97c5-f991fc80b0ff)
+
 
 
 When everyone has chosen the card to play, everyone must vote:
