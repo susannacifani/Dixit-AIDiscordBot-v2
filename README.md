@@ -24,6 +24,12 @@ When you type **`/start`**:
 
 ![start](https://github.com/user-attachments/assets/e1eeda61-59f6-4855-9022-aabef301aaee)
 
+
+When the storyteller uses **`/describe_and_choose`** to provide its hint:
+
+![image](https://github.com/user-attachments/assets/80136ec3-5c9d-448b-ac69-bd9ea9b677c7)
+
+
 When everyone has chosen the card to play, everyone must vote:
 
 ![image](https://github.com/user-attachments/assets/ce008b2d-d495-456b-927b-ff7532ef9724)
