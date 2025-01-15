@@ -45,3 +45,9 @@ When everyone has voted:
 
 ![image](https://github.com/user-attachments/assets/67a84b74-dcea-4a80-90f2-e16a1eaf5217)
 
+
+Then, it starts a new round selecting the next storyteller:
+
+![image](https://github.com/user-attachments/assets/e90a1dc5-751c-4bf2-b5a8-6ed73cb2bbc3)
+
+
