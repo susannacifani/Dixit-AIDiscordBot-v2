@@ -34,3 +34,8 @@ When everyone has chosen the card to play, everyone must vote:
 
 ![image](https://github.com/user-attachments/assets/ce008b2d-d495-456b-927b-ff7532ef9724)
 
+
+When everyone has voted:
+
+![image](https://github.com/user-attachments/assets/67a84b74-dcea-4a80-90f2-e16a1eaf5217)
+
