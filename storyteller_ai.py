@@ -3,7 +3,7 @@ from PIL import Image
 import os
 import openai
 import random
-from florence2 import generate_descr
+from descr_generator import generate_descr
 
 #Narrator role
 #input: the 6 card in his hands
