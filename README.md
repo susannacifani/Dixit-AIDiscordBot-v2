@@ -23,3 +23,8 @@ A Discord bot that brings the **Dixit** game to your Discord server, allowing us
 When you type **`/start`**:
 
 ![start](https://github.com/user-attachments/assets/e1eeda61-59f6-4855-9022-aabef301aaee)
+
+When everyone has chosen the card to play, everyone must vote:
+
+![image](https://github.com/user-attachments/assets/ce008b2d-d495-456b-927b-ff7532ef9724)
+
