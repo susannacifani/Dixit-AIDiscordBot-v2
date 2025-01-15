@@ -1,6 +1,6 @@
 # Dixit-AIDiscordBot-v2
 
-A Discord bot that brings the **Dixit** game experience to your Discord server, allowing users to engage with an AI player.
+A Discord bot that brings the **Dixit** game to your Discord server, allowing users to engage with an AI player.
 
 ## Features
 
@@ -14,10 +14,10 @@ A Discord bot that brings the **Dixit** game experience to your Discord server, 
 - **Florence-2**: Enhances the bot's ability to analyze cards.
 - **GPT-3.5**: Provides creative and metaphorical hints.
 
-## To run
+## How to Modify the Code for Your Use
 
-To run the bot, you need:
+1. Insert Your Discord Bot Token
+2. Insert Your OpenAI API Key
 
-- An OpenAI token
-- A Discord bot token 
+## Examples
 
