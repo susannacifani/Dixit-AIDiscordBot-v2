@@ -21,3 +21,4 @@ A Discord bot that brings the **Dixit** game to your Discord server, allowing us
 
 ## Examples
 
+![image](https://github.com/user-attachments/assets/e1eeda61-59f6-4855-9022-aabef301aaee)
