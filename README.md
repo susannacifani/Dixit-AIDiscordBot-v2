@@ -8,6 +8,16 @@ A Discord bot that brings the **Dixit** game to your Discord server, allowing us
 - **Image Analysis with CLIP and Florence-2**: Handle image-based inputs and interactions for a richer gaming experience.
 - **Advanced Natural Language Understanding**: Powered by GPT-3.5 for human-like conversations and game-related decisions.
 
+### Dixit Game Commands
+
+- `/dixit`: Start a new Dixit game session.
+- `/join`: Join the current game session (each user who wants to play must use this command to register).
+- `/start`: Close registrations and officially start the game.
+- `/ai`: Add the AI player to the game as a participant.
+- `/choose`: Allows the narrator to select a card and provide the clue for the round.
+- `/playcard`: Players use this command to play their chosen card based on the narrator's clue.
+- `/endgame`: End the game session at any point.
+
 ## Technologies Used
 
 - **CLIP**: Used for processing and understanding cards.
