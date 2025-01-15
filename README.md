@@ -30,12 +30,12 @@ A Discord bot that brings the **Dixit** game to your Discord server, allowing us
 2. Insert Your OpenAI API Key
 
 ## Examples
-When you type **`/start`**:
+When you type **`/dixit`**:
 
 ![start](https://github.com/user-attachments/assets/e1eeda61-59f6-4855-9022-aabef301aaee)
 
 
-Everyone receives its own deck of cards in private DM:
+After someone has typed **`/start`**, everyone receives its own deck of cards in private DM:
 
 ![image](https://github.com/user-attachments/assets/8573e924-3998-4efb-bfff-ec3ac7e6db56)
 
