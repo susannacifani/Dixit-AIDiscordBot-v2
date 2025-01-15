@@ -20,5 +20,5 @@ A Discord bot that brings the **Dixit** game to your Discord server, allowing us
 2. Insert Your OpenAI API Key
 
 ## Examples
-
-![image](https://github.com/user-attachments/assets/e1eeda61-59f6-4855-9022-aabef301aaee)
+When you type '/start':
+![start](https://github.com/user-attachments/assets/e1eeda61-59f6-4855-9022-aabef301aaee)
